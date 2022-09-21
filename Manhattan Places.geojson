@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Manhattan Places",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -8229031.487045084126294, 4982371.507012755610049 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ -8229938.956422093324363, 4980740.12165199406445 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ -8231371.644684278406203, 4983548.364060188643634 ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "Point", "coordinates": [ -8233874.397196786478162, 4980289.661982905119658 ] } },
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [ -8235662.539521025493741, 4978165.534270224161446 ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "Point", "coordinates": [ -8235537.177409339696169, 4977191.548921602778137 ] } }
+]
+}
